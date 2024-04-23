@@ -1,0 +1,18 @@
+{
+  "game_start": {
+    "subtitle": "flag_hunter.subtitle.game_start",
+    "sounds": [ "flag_hunter:game_start" ]
+  },
+  "notif_sound": {
+    "subtitle": "flag_hunter.subtitle.notif_sound",
+    "sounds": [ "flag_hunter:notif_sound" ]
+  },
+  "pos_found_sound": {
+    "subtitle": "flag_hunter.subtitle.pos_found_sound",
+    "sounds": [ "flag_hunter:pos_found_sound" ]
+  },
+  "team_eliminated": {
+    "subtitle": "flag_hunter.subtitle.team_eliminated",
+    "sounds": [ "flag_hunter:team_eliminated" ]
+  }
+}

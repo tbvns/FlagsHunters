@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "xyz.tbvns.flag_hunter.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "flag_hunter.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

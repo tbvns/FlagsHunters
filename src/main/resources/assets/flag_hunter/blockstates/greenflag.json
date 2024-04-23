@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "flag_hunter:models/greenflag"
+    }
+  }
+}
